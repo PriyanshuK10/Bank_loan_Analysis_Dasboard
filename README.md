@@ -1,5 +1,7 @@
 # Bank-Loan-Analysis-Report-Dashboard
 
+[Live Dashboard Link](https://www.novypro.com/project/bank-loan-analysis-dashboard-2)
+
 ### Table of Content
  * [project Overview](#project-objective-or-overview)
  * [KPI Requirement](#kpi-requirements)
