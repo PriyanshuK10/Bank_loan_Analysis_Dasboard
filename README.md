@@ -65,7 +65,7 @@ Utilize a table to present detailed information for each loan, including loan ID
 
 ### Key Performance Indicators (KPIs) in the Report:
 
-![Cae Sales Details](https://github.com/PriyanshuK10/Bank_loan_Analysis_Dasboard/assets/156614225/c59e9c79-0bd7-4d1a-b830-edd72a37e7fe)
+![Bank Loan Summary](https://github.com/PriyanshuK10/Bank_loan_Analysis_Dasboard/assets/156614225/d8aa00f2-3be0-4b5e-bb55-3da8ce973599)
 
 1. Total Loan Applications:
    * 66.38k total applications
